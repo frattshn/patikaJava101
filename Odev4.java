@@ -1,3 +1,6 @@
+/*
+*Taksimetre Hesaplayan Program
+*/
 import java.util.Scanner;
 public class Main {
 
@@ -9,17 +12,19 @@ public class Main {
 		
 		double kmUcret= 2.20;
 		double mesafe;
+		double ucret=10;
 		
 		Scanner input= new Scanner(System.in);
 		
 		System.out.print("Lütfen gidilen mesafeyi(km) yazınız: ");
 		mesafe= input.nextDouble();
+		ucret+= mesafe*kmUcret;
 		
-		if(kmUcret*mesafe<20) {
+		if(ucret<20) {
 			System.out.println("Ödenecek tutar: "+20);
 		}
 		else {
-			System.out.println("Ödenecek tutar: "+kmUcret*mesafe);
+			System.out.println("Ödenecek tutar: "+ucret);
 		}
 		
 	}
