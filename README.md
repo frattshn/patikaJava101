@@ -18,4 +18,5 @@
 [Ödev15](https://github.com/frattshn/patikaJava101/blob/main/Odev15.java) <br><br>
 [Ödev16](https://github.com/frattshn/patikaJava101/blob/main/Odev16.java) <br><br>
 [Ödev17](https://github.com/frattshn/patikaJava101/blob/main/Odev17.java) <br><br>
+[Ödev18](https://github.com/frattshn/patikaJava101/blob/main/Odev18.java) <br><br>
 
