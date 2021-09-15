@@ -11,4 +11,5 @@
 [Ödev8](https://github.com/frattshn/patikaJava101/blob/main/Odev8.java) <br><br>
 [Ödev9](https://github.com/frattshn/patikaJava101/blob/main/Odev9.java) <br><br>
 [Ödev10](https://github.com/frattshn/patikaJava101/blob/main/Odev10.java) <br><br>
+[Ödev11](https://github.com/frattshn/patikaJava101/blob/main/Odev11.java) <br><br>
 
