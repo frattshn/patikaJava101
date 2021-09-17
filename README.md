@@ -23,5 +23,7 @@
 [Ödev20](https://github.com/frattshn/patikaJava101/blob/main/Odev20.java) <br><br>
 [Ödev21](https://github.com/frattshn/patikaJava101/blob/main/Odev21.java) <br><br>
 [Ödev22](https://github.com/frattshn/patikaJava101/blob/main/Odev22.java) <br><br>
+[Ödev23](https://github.com/frattshn/patikaJava101/blob/main/Odev23.java) <br><br>
+
 
 
