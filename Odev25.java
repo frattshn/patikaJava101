@@ -8,7 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		/**
-		 * @author MEMDUH FIRAT 17.09.2021
+		 * @author MEMDUH FIRAT 19.09.2021
 		 */
 		
 
